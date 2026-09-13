@@ -13,19 +13,6 @@
 <a href="https://nexuslld.vercel.app/">
   <img src="https://img.shields.io/badge/%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME/nexuslld">
-  <img src="https://img.shields.io/badge/💻%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://nextjs.org/">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</a>
-
 </div>
 
 ---
