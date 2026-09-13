@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# NexusLLD
 
-First, run the development server:
+### Automated Low-Level Design (LLD) Evaluation, Static Analysis & Architecture Review Platform
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<br/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Low-Level+Design+Evaluator;Automated+Static+Code+Analysis;Design+Pattern+Validation;Thread-Safe+Architecture+Review" />
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br/><br/>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<a href="https://nexuslld.vercel.app/">
+  <img src="https://img.shields.io/badge/%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME/nexuslld">
+  <img src="https://img.shields.io/badge/💻%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
 
-## Learn More
+</div>
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## About
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**nexusLLD** is a specialized, web-based platform designed to analyze, score, and critique **Low-Level Software Designs (LLD)** in real time. 
 
-## Deploy on Vercel
+Engineering high-quality systems requires more than code that merely compiles—it requires strict encapsulation, clean separation of concerns, behavioral design pattern conformance, and verified concurrency safety. 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**nexusLLD** takes user-submitted solutions (such as multi-car elevator control systems, cache managers, or parking lot models) and runs deep static analysis alongside rule-based architecture audits to verify compliance with enterprise design rubrics.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Highlights
+
+* **Static Analysis Engine**: Audits class declarations, inheritance structures, and interface usage.
+* **Encapsulation Checker**: Enforces private variable shielding and restricts raw internal state mutations.
+* **Pattern Conformance Verification**: Validates behavioral patterns like the **State Pattern** and enforces **Composition over Inheritance**.
+* **Thread-Safety & Concurrency Audit**: Checks state synchronization, critical section locks, and race-free executions.
+* **Real-Time Scoring Ring**: Visual percentage breakdown and percentile rating (e.g. *Quality Score: 55+ / Top 15%*).
+* **Cyber-Dark Aesthetic**: Clean, developer-oriented dark theme with glowing green telemetry status badges.
+* **Instant Actionable Critique**: Pinpoints explicit anti-patterns such as missing access modifiers or interface violations.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,git,github,vercel" />
+
+</div>
+
+<br/>
+
+| Technology | Role & Purpose |
+| :--- | :--- |
+| **Next.js (App Router)** | Full-stack framework powering client interactions and analysis pipelines |
+| **React 19** | Component-driven UI and real-time reactive score states |
+| **TypeScript** | Type-safe static analysis modeling, contracts, and evaluation logic |
+| **Tailwind CSS** | Custom dark aesthetic, responsive grid layouts, and visual status cards |
+| **Geist Font** | High-legibility typography optimized via `next/font` |
+| **Vercel** | Edge deployment and continuous integration pipeline |
+
+---
+
+## Architecture Rubric Checked
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                      nexusLLD Evaluation                     │
+├──────────────────────────────┬──────────────────────────────┤
+│  Rubric Requirements         │  Static Code Checks          │
+├──────────────────────────────┼──────────────────────────────┤
+│  • Thread safe               │  ✔ Domain classes modeled    │
+│  • Composition over          │  ✔ Private field protection  │
+│    inheritance               │  ✔ Interface / Abstractions  │
+│  • State Pattern compliance  │  ✔ No direct public leaks    │
+└──────────────────────────────┴──────────────────────────────┘
