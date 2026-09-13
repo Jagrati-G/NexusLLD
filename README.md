@@ -86,3 +86,16 @@ Engineering high-quality systems requires more than code that merely compiles—
 │    inheritance               │  ✔ Interface / Abstractions  │
 │  • State Pattern compliance  │  ✔ No direct public leaks    │
 └──────────────────────────────┴──────────────────────────────┘
+```
+
+---
+
+## Screenshots
+
+<div align="center">
+
+### Home
+
+<img src="nexus.png" width="850" alt="Home"/>
+
+<br/><br/>
